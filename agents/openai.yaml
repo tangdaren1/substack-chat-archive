@@ -1,0 +1,4 @@
+interface:
+  display_name: "Substack Chat Archive"
+  short_description: "Validate and archive Substack Chat rooms with a local Python CLI"
+  default_prompt: "Use $substack-chat-archive to validate access to explicit Substack Chat room URLs and sync them into a deterministic local archive."
